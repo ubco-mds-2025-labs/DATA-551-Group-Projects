@@ -13,6 +13,6 @@ Edit this `README.md` to submit the links to your projects.
 | Group 7  | [Project Title](https://www.markdownguide.org) |
 | Group 8  | [Project Title](https://www.markdownguide.org) |
 | Group 9  | [Project Title](https://www.markdownguide.org) |
-| Group 10 | [Project Title](https://www.markdownguide.org) |
+| Group 10 | [World Sustainability](https://github.com/mzikkhan/data551-project.git) |
 | Group 11 | [Project Title](https://www.markdownguide.org) |
 | Group 12 | [Project Title](https://www.markdownguide.org) |
