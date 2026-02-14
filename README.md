@@ -5,7 +5,7 @@ Edit this `README.md` to submit the links to your projects.
 | Group    | Repository                                     |
 | -------- | ---------------------------------------------- |
 | Group 1  | [Project Title](https://www.markdownguide.org) |
-| Group 2  | [Project Title](https://www.markdownguide.org) |
+| Group 2  | [Project Title](https://github.com/inaararajwani11/551Grp2) |
 | Group 3  | [Project Title](https://www.markdownguide.org) |
 | Group 4  | [Project Title](https://www.markdownguide.org) |
 | Group 5  | [Project Title](https://www.markdownguide.org) |
